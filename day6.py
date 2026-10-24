@@ -14,7 +14,6 @@
          break
      else:
          print('wrong password')
-         if attempt==3:
-            print('account locked')
+          if attem  print('account locked')
 
 
